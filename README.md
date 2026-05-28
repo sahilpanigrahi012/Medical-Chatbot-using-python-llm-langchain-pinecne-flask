@@ -1,1 +1,1 @@
-# Medical-Chatbot-using-python-llm-langchain-pinecne-flask
+# Medical-Chatbot-using-python-llm-langchain-pinecone-flask
